@@ -42,18 +42,6 @@ This project demonstrates an **end-to-end Machine Learning pipeline**, including
 
 ## 🗂️ Project Structure
 
-CREDIT_CARD_DEFAULT_PREDICTOR/
-│
-├── models/
-│   ├── logistic_regression_model.pkl
-│   ├── scaler.pkl
-│   └── model_features.pkl
-│
-├── app.py
-├── Credit_Card_Default.ipynb
-├── requirements.txt
-├── README.md
-└── LICENSE
 
 ---
 
@@ -64,8 +52,6 @@ CREDIT_CARD_DEFAULT_PREDICTOR/
 - 🤖 Scikit-learn  
 - 🎈 Streamlit  
 - 💾 Joblib  
-
----
 
 ## ⚙️ Installation & Local Setup
 
